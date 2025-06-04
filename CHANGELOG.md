@@ -1,10 +1,9 @@
 # Changelog
 
-
 ## v1.8.0
   * Updates API version to 20
   * Updates pkg version to 27.0.0
-  * 
+  * [#1](https://github.com/LevelInteractive/tap-google-ads/pull/1)
 
 ## v1.8.0
   * Updates API version to 17
