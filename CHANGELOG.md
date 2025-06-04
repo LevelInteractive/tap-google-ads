@@ -1,5 +1,11 @@
 # Changelog
 
+
+## v1.8.0
+  * Updates API version to 20
+  * Updates pkg version to 27.0.0
+  * 
+
 ## v1.8.0
   * Updates API version to 17
   * Updates pkg version to 25.0.0
